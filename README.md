@@ -22,3 +22,5 @@ CREATE TABLE [dbo].[Clients] (
     [Prenume] NVARCHAR (50) NOT NULL,
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
+
+in baza de date numita "data"
